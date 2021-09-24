@@ -25,6 +25,6 @@ Please see this Tips if using Java: [JavaTips.md](JavaTips.md)
 - Script Lambda / S3 deployment or use a framework such as SLS or SAM
 - Warmup the lambdas
 
-When done please contact amazza@signerstech.com or @AdrianHMazza on twitter.
+When done please contact amazza@signerstech.com or [@AdrianHMazza](https://twitter.com/AdrianHMazza) on twitter.
 
 Enjoy coding!
