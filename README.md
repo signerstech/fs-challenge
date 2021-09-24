@@ -15,7 +15,7 @@ Please see this Tips if using Java: [JavaTips.md](JavaTips.md)
 
 ## Stack
 - VueJs (preferred) or other front-end JS framework
-- NodeJs or Java
+- Java (preferred) or NodeJs 
 - AWS Lambda for serverless backend deployment
 - AWS S3 or AWS Cloudfront for front-end hosting
 
