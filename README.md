@@ -11,7 +11,7 @@ A direct connection to an RPC endpoint (Infura offers a free option) using web3j
 
 For testing purposes you may use Vitalik's wallet (0x6b175474e89094c44da98b954eedeac495271d0f), he holds many different coins such as DAI, SHIB, UBI and others. 
 
-Please see this Tips if using Java: [a relative link](JavaTips.md)
+Please see this Tips if using Java: [JavaTips.md](JavaTips.md)
 
 ## Stack
 - VueJs (preferred) or other front-end JS framework
