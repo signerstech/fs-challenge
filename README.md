@@ -9,7 +9,7 @@ A serverless back-end shall connect to the Ethereum blockchain to provide basic 
 
 A direct connection to an RPC endpoint (Infura offers a free option) using web3js, web3j or ethersjs shall be preferred over third party approaches.
 
-For testing purposes you may use Vitalik's wallet (0x6b175474e89094c44da98b954eedeac495271d0f), he holds many different coins such as DAI, SHIB, UBI and others. 
+For testing purposes you may use Vitalik's wallet (0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045), he holds many different coins such as DAI, SHIB, UBI and others. 
 
 Please see this Tips if using Java: [JavaTips.md](JavaTips.md)
 
